@@ -1,0 +1,312 @@
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.exe
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.deps.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.runtimeconfig.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfo.cs
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\scopedcss\bundle\Product Management Microservice.styles.css
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CopyComplete
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\ref\Product Management Microservice.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.genruntimeconfig.cache
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USER\Desktop\CTS Learn\ServiceBooking-MFPE_009\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\refint\Product Management Microservice.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.exe
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.deps.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.runtimeconfig.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.AssemblyReference.cache
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfoInputs.cache
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfo.cs
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CoreCompileInputs.cache
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\scopedcss\bundle\Product Management Microservice.styles.css
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CopyComplete
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\refint\Product Management Microservice.dll
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.genruntimeconfig.cache
+C:\Users\TANMOY\Downloads\Code Files\Code Files\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\ref\Product Management Microservice.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.exe
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.deps.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.runtimeconfig.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.AssemblyReference.cache
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfoInputs.cache
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfo.cs
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CoreCompileInputs.cache
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\scopedcss\bundle\Product Management Microservice.styles.css
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CopyComplete
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\refint\Product Management Microservice.dll
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.genruntimeconfig.cache
+C:\Users\kotha\Downloads\ServiceBookingManagement\ServiceBookingManagement\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\ref\Product Management Microservice.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\appsettings.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.exe
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.deps.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.runtimeconfig.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.AssemblyReference.cache
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfoInputs.cache
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.AssemblyInfo.cs
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CoreCompileInputs.cache
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\scopedcss\bundle\Product Management Microservice.styles.css
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.csproj.CopyComplete
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\refint\Product Management Microservice.dll
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.pdb
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\Product Management Microservice.genruntimeconfig.cache
+C:\Users\Shruti Shah\Downloads\ServiceBookingManagement_haha\Product Management Microservice\Product Management Microservice\obj\Debug\net6.0\ref\Product Management Microservice.dll
